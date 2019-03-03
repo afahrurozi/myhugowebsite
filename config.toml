@@ -3,6 +3,8 @@ title   = "Ahmad Fahrurozi"
 
 DefaultContentLanguage = "en"
 
+theme = "hello-friend-ng"
+
 pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit  = 10  # Maximum number of items in the RSS feed.
