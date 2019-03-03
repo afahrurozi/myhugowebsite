@@ -1,9 +1,9 @@
-baseURL = "http://ahmadblog.github.io"
+baseURL = "http://afahrurozi.com"
 title   = "Ahmad Fahrurozi"
+relativeURLs = true
+uglyURLs = true
 
 DefaultContentLanguage = "en"
-
-theme = "hello-friend-ng"
 
 pygmentsCodefences = true
 pygmentsUseClasses = true
@@ -76,7 +76,7 @@ disableHugoGeneratorInject = false
   defaultTheme = "dark"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "root@server:/home/#"
     logoHomeLink = "/"
 
   # Social icons
@@ -106,8 +106,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "http://afahrurozi.com/about.html"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "http://blog.afahrurozi.com"
+    url        = "https://blog.afahrurozi.com"

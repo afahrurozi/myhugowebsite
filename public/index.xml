@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmad Fahrurozi</title>
-    <link>http://ahmadblog.github.io/</link>
+    <link>http://afahrurozi.com/.html</link>
     <description>Recent content on Ahmad Fahrurozi</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     
-	<atom:link href="http://ahmadblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://afahrurozi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
-</rss>="self" type="application/rss+xml" />
+</rss>f" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://ahmadblog.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <link>http://afahrurozi.com/about.html</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ahmadblog.github.io/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-Learn more and contribute on GitHub.</description>
+      <guid>http://afahrurozi.com/about.html</guid>
+      <description>Hi, I’m Ahmad Fahrurozi. Currently I work and experienced as QA Engineer with a demonstrated history of working in the information technology and services industry. I also have interested in machine learning and automation thing.
+You can contact me via email gmail@afahrurozi.com</description>
     </item>
     
   </channel>

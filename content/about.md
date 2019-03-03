@@ -1,11 +1,11 @@
 +++
 title = "about"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2014-03-03"
+aliases = ["about-me"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Ahmad Fahrurozi"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi, I’m Ahmad Fahrurozi. Currently I work and experienced as QA Engineer with a demonstrated history of working in the information technology and services industry. I also have interested in machine learning and automation thing.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+You can contact me via email gmail@afahrurozi.com
