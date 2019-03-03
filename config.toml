@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://ahmadblog.github.io"
 title   = "Ahmad Fahrurozi"
 
 DefaultContentLanguage = "en"
